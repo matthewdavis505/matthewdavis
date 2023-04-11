@@ -1,5 +1,5 @@
 # matthewdavis
-<h1>Hi, I'm Matt, an <a href="https://linkedin.com/in/matthew-davis-a8b77163">IT Professional</a>☺</h1>
+<h1>Hi, I'm Matt, an <a href="https://linkedin.com/in/matthewdavis505">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -12,4 +12,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/matthewdavis505/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/matthew-davis-a8b77163
+[linkedin]: https://linkedin.com/in/matthewdavis505
